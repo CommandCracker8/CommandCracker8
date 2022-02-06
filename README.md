@@ -26,6 +26,12 @@
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
+---
+
+### Donations
+I'm finding I'm rather limited by the fact I don't have a good source of money, so any donations are welcome!
+If you would like to donate, please send me an email and I will send you the details.
+
 
 <!--
 **CommandCracker8/CommandCracker8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
