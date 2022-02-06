@@ -6,7 +6,7 @@
 - Programming is my passion
 - On the internet, I often go by `Commandcracker8`
 - I enjoy playing Minecraft and Terraria
-- I realy enjoy learning and using Maths
+- I really enjoy learning and using Maths
 
 ### Some of the things I make
 - Minecraft Plugins
