@@ -20,7 +20,7 @@
 
 ---
 
-- 🤔 I’m looking for help with art
+- 🤔 I’m looking for help with graphic design
 - 💬 Ask me about anything programming related!
 - 📫 How to reach me: [commandcracker8@gmail.com](mailto:commandcracker8@gmail.com)
 - 😄 Pronouns: He/Him
