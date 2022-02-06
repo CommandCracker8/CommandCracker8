@@ -18,6 +18,8 @@
 - CCBedwars - A custom Minecraft bedwars plugin
 - Lib8 - A Maven library to streamline Minecraft plugin development
 
+[![CommandCracker8's GitHub stats](https://github-readme-stats.vercel.app/api?username=CommandCracker8&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 - 🤔 I’m looking for help with graphic design
