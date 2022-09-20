@@ -7,6 +7,7 @@
 - On the internet, I often go by `Commandcracker8`
 - I enjoy playing Minecraft and Terraria
 - I really enjoy learning and using Maths
+- Developer @ TwistMC
 
 ### Some of the things I make
 - Minecraft Plugins
